@@ -10,6 +10,8 @@
       <th>Url</th>
       <th>Snac</th>
       <th>Ideal postcodes name</th>
+      <th>lad18nm</th>
+      <th>fid</th>
       <th colspan="3"></th>
     </tr>
   </thead>
@@ -22,6 +24,8 @@
         <td><%= council.url %></td>
         <td><%= council.snac %></td>
         <td><%= council.ideal_postcodes_name %></td>
+        <td><%= council.lad18nm %></td>
+        <td><%= council.fid %></td>
         <td><%= link_to 'Show', council %></td>
         <td><%= link_to 'Edit', edit_council_path(council) %></td>
         <td><%= link_to 'Destroy', council, method: :delete, data: { confirm: 'Are you sure?' } %></td>

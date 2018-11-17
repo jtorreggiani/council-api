@@ -1,7 +1,22 @@
 require 'uri'
 require 'net/http'
+require 'csv'
 
 namespace :councils do
+
+  task csv: :environment do
+    CSV.foreach("data/Interim_Local_Authority_Districts_April_2018_Names_and_Codes_in_the_United_Kingdom.csv", headers: false) do |row|
+      if council = Council.find_by(gss: row[0])
+        council.update_attributes(
+          lad18nm: row[1],
+          fid: row[3]
+        )
+      else
+        p row[0] + " does not exist"
+      end
+    end
+  end
+
   task ideal: :environment do
     ob = {}
     councils = Council.where(ideal_postcodes_name: nil).map do |c|

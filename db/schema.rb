@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2018_11_17_185944) do
+ActiveRecord::Schema.define(version: 2018_11_17_191754) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -24,6 +24,8 @@ ActiveRecord::Schema.define(version: 2018_11_17_185944) do
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
     t.boolean "is_online", default: false, null: false
+    t.text "lad18nm"
+    t.integer "fid"
     t.index ["gss"], name: "index_councils_on_gss", unique: true
     t.index ["name"], name: "index_councils_on_name", unique: true
   end
