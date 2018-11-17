@@ -16,7 +16,7 @@
 
   <tbody>
     <% @councils.each do |council| %>
-      <tr>
+      <tr class="<%= council.is_online ? 'online' : 'offline' %>">
         <td><%= council.gss %></td>
         <td><%= council.name %></td>
         <td><%= council.url %></td>
