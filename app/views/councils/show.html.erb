@@ -1,0 +1,29 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Gss:</strong>
+  <%= @council.gss %>
+</p>
+
+<p>
+  <strong>Name:</strong>
+  <%= @council.name %>
+</p>
+
+<p>
+  <strong>Url:</strong>
+  <%= @council.url %>
+</p>
+
+<p>
+  <strong>Snac:</strong>
+  <%= @council.snac %>
+</p>
+
+<p>
+  <strong>Ideal postcodes name:</strong>
+  <%= @council.ideal_postcodes_name %>
+</p>
+
+<%= link_to 'Edit', edit_council_path(@council) %> |
+<%= link_to 'Back', councils_path %>

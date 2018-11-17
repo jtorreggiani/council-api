@@ -1,0 +1,3317 @@
+{
+  "S12000033": {
+    "name": "Aberdeen City Council",
+    "url": "https://www.aberdeencity.gov.uk",
+    "snac": "00QA",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Aberdeen City"
+  },
+  "S12000034": {
+    "name": "Aberdeenshire Council",
+    "url": "https://www.aberdeenshire.gov.uk",
+    "snac": "00QB",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Aberdeenshire"
+  },
+  "E07000223": {
+    "name": "Adur District Council",
+    "url": "http://www.adur-worthing.gov.uk",
+    "snac": "45UB",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Adur"
+  },
+  "E07000026": {
+    "name": "Allerdale Borough Council",
+    "url": "http://www.allerdale.gov.uk",
+    "snac": "16UB",
+    "lgsl": 35,
+    "lgil": 8,
+    "idealPostcodesName": "Allerdale"
+  },
+  "E07000032": {
+    "name": "Amber Valley Borough Council",
+    "url": "http://www.ambervalley.gov.uk",
+    "snac": "17UB",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Amber Valley"
+  },
+  "S12000041": {
+    "name": "Angus Council",
+    "url": "https://www.angus.gov.uk",
+    "snac": "00QC",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Angus"
+  },
+  "N09000001": {
+    "name": "Antrim and Newtownabbey Borough Council",
+    "url": "https://www.nidirect.gov.uk",
+    "snac": null,
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Antrim and Newtownabbey"
+  },
+  "N09000011": {
+    "name": "Ards and North Down Borough Council",
+    "url": "http://www.eani.org.uk",
+    "snac": null,
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Ards and North Down"
+  },
+  "S12000035": {
+    "name": "Argyll and Bute Council",
+    "url": "https://www.argyll-bute.gov.uk",
+    "snac": "00QD",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Argyll and Bute"
+  },
+  "N09000002": {
+    "name": "Armagh City, Banbridge and Craigavon Borough Council",
+    "url": "http://www.eani.org.uk",
+    "snac": null,
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Armagh City, Banbridge and Craigavon"
+  },
+  "E07000224": {
+    "name": "Arun District Council",
+    "url": "http://www.inspireleisure.co.uk",
+    "snac": "45UC",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Arun"
+  },
+  "E07000170": {
+    "name": "Ashfield District Council",
+    "url": "http://www.ashfield.gov.uk",
+    "snac": "37UB",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Ashfield"
+  },
+  "E07000105": {
+    "name": "Ashford Borough Council",
+    "url": "http://www.ashford.gov.uk",
+    "snac": "29UB",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Ashford"
+  },
+  "E07000004": {
+    "name": "Aylesbury Vale District Council",
+    "url": "https://www.bucksfamilyinfo.org",
+    "snac": "11UB",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Aylesbury Vale"
+  },
+  "E07000200": {
+    "name": "Babergh District Council",
+    "url": "http://www.babergh.gov.uk",
+    "snac": "42UB",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Babergh"
+  },
+  "E08000016": {
+    "name": "Barnsley Metropolitan Borough Council",
+    "url": "https://www.barnsley.gov.uk",
+    "snac": "00CC",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Barnsley"
+  },
+  "E07000066": {
+    "name": "Basildon Borough Council",
+    "url": "http://www.basildon.gov.uk",
+    "snac": "22UB",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Basildon"
+  },
+  "E07000084": {
+    "name": "Basingstoke and Deane Borough Council",
+    "url": "http://www.basingstoke.gov.uk",
+    "snac": "24UB",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Basingstoke and Deane"
+  },
+  "E07000171": {
+    "name": "Bassetlaw District Council",
+    "url": "http://www.bassetlaw.gov.uk",
+    "snac": "37UC",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Bassetlaw"
+  },
+  "E06000022": {
+    "name": "Bath and North East Somerset Council",
+    "url": "http://www.bathnes.gov.uk",
+    "snac": "00HA",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Bath and North East Somerset"
+  },
+  "E06000055": {
+    "name": "Bedford Borough Council",
+    "url": "https://www.bedford.gov.uk",
+    "snac": "00KB",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Bedford"
+  },
+  "N09000003": {
+    "name": "Belfast City Council",
+    "url": "http://www.belfastcity.gov.uk",
+    "snac": null,
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Belfast"
+  },
+  "E08000025": {
+    "name": "Birmingham City Council",
+    "url": "http://www.birmingham.gov.uk",
+    "snac": "00CN",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Birmingham"
+  },
+  "E07000129": {
+    "name": "Blaby District Council",
+    "url": "http://www.blaby.gov.uk",
+    "snac": "31UB",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Blaby"
+  },
+  "E06000008": {
+    "name": "Blackburn with Darwen Borough Council",
+    "url": "http://www.blackburn.gov.uk",
+    "snac": "00EX",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Blackburn with Darwen"
+  },
+  "E06000009": {
+    "name": "Blackpool Borough Council",
+    "url": "https://www.blackpool.gov.uk",
+    "snac": "00EY",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Blackpool"
+  },
+  "W06000019": {
+    "name": "Blaenau Gwent County Borough Council",
+    "url": "http://www.blaenau-gwent.gov.uk",
+    "snac": "00PL",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Blaenau Gwent"
+  },
+  "E07000033": {
+    "name": "Bolsover District Council",
+    "url": "https://www.civicaepay.co.uk",
+    "snac": "17UC",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Bolsover"
+  },
+  "E08000001": {
+    "name": "Bolton Metropolitan Borough Council",
+    "url": "http://www.bolton.gov.uk",
+    "snac": "00BL",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Bolton"
+  },
+  "E07000146": {
+    "name": "Borough Council of Kings Lynn and West Norfolk",
+    "url": "https://www.west-norfolk.gov.uk",
+    "snac": "33UE",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "King's Lynn and West Norfolk"
+  },
+  "E07000027": {
+    "name": "Borough of Barrow-in-Furness",
+    "url": "http://www.barrowbc.gov.uk",
+    "snac": "16UC",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Barrow-in-Furness"
+  },
+  "E07000095": {
+    "name": "Borough of Broxbourne",
+    "url": "http://www.broxbourne.gov.uk",
+    "snac": "26UB",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Broxbourne"
+  },
+  "E06000029": {
+    "name": "Borough of Poole",
+    "url": "http://archive.poole.gov.uk",
+    "snac": "00HP",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Poole"
+  },
+  "E07000136": {
+    "name": "Boston Borough Council",
+    "url": "http://www.boston.gov.uk",
+    "snac": "32UB",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Boston"
+  },
+  "E06000028": {
+    "name": "Bournemouth Borough Council",
+    "url": "http://www.bournemouth.gov.uk",
+    "snac": "00HN",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Bournemouth"
+  },
+  "E06000036": {
+    "name": "Bracknell Forest Council",
+    "url": "https://www.bracknell-forest.gov.uk",
+    "snac": "00MA",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Bracknell Forest"
+  },
+  "E07000067": {
+    "name": "Braintree District Council",
+    "url": "http://www.braintree.gov.uk",
+    "snac": "22UC",
+    "lgsl": 47,
+    "lgil": 8,
+    "idealPostcodesName": "Braintree"
+  },
+  "E07000143": {
+    "name": "Breckland Council",
+    "url": "http://www.angliarevenues.gov.uk",
+    "snac": "33UB",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Breckland"
+  },
+  "E07000068": {
+    "name": "Brentwood Borough Council",
+    "url": "http://www.brentwood-council.gov.uk",
+    "snac": "22UD",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Brentwood"
+  },
+  "W06000013": {
+    "name": "Bridgend County Borough Council",
+    "url": "https://www.bridgend.gov.uk",
+    "snac": "00PB",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Bridgend"
+  },
+  "E06000043": {
+    "name": "Brighton and Hove City Council",
+    "url": "https://www.brighton-hove.gov.uk",
+    "snac": "00ML",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Brighton and Hove"
+  },
+  "E06000023": {
+    "name": "Bristol City Council",
+    "url": "http://www.bristol.gov.uk",
+    "snac": "00HB",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Bristol, City of"
+  },
+  "E07000144": {
+    "name": "Broadland District Council",
+    "url": "http://www.broadland.gov.uk",
+    "snac": "33UC",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Broadland"
+  },
+  "E07000234": {
+    "name": "Bromsgrove District Council",
+    "url": "http://www.bromsgrove.gov.uk",
+    "snac": "47UB",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Bromsgrove"
+  },
+  "E07000172": {
+    "name": "Broxtowe Borough Council",
+    "url": "http://www.broxtowe.gov.uk",
+    "snac": "37UD",
+    "lgsl": 13,
+    "lgil": 8,
+    "idealPostcodesName": "Broxtowe"
+  },
+  "E10000002": {
+    "name": "Buckinghamshire County Council",
+    "url": "http://www.buckscc.gov.uk",
+    "snac": "11",
+    "lgsl": 1,
+    "lgil": 0
+  },
+  "E07000117": {
+    "name": "Burnley Borough Council",
+    "url": "http://www.burnley.gov.uk",
+    "snac": "30UD",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Burnley"
+  },
+  "E08000002": {
+    "name": "Bury Metropolitan Borough Council",
+    "url": "http://www.bury.gov.uk",
+    "snac": "00BM",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Bury"
+  },
+  "W06000018": {
+    "name": "Caerphilly County Borough Council",
+    "url": "http://www.caerphilly.gov.uk",
+    "snac": "00PK",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Caerphilly"
+  },
+  "E08000033": {
+    "name": "Calderdale Metropolitan Borough Council",
+    "url": "http://www.calderdale.gov.uk",
+    "snac": "00CY",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Calderdale"
+  },
+  "E07000008": {
+    "name": "Cambridge City Council",
+    "url": "https://www.cambridge.gov.uk",
+    "snac": "12UB",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Cambridge"
+  },
+  "E10000003": {
+    "name": "Cambridgeshire County Council",
+    "url": "https://www.cambridgeshire.gov.uk",
+    "snac": "12",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000192": {
+    "name": "Cannock Chase District Council",
+    "url": "http://www.cannockchasedc.gov.uk",
+    "snac": "41UB",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Cannock Chase"
+  },
+  "E07000106": {
+    "name": "Canterbury City Council",
+    "url": "http://www.e-canterbury.co.uk",
+    "snac": "29UC",
+    "lgsl": 47,
+    "lgil": 8,
+    "idealPostcodesName": "Canterbury"
+  },
+  "E07000028": {
+    "name": "Carlisle City Council",
+    "url": "http://www.carlisle.gov.uk",
+    "snac": "16UD",
+    "lgsl": 35,
+    "lgil": 8,
+    "idealPostcodesName": "Carlisle"
+  },
+  "W06000010": {
+    "name": "Carmarthenshire County Council",
+    "url": "http://www.carmarthenshire.gov.wales",
+    "snac": "00NU",
+    "lgsl": 2,
+    "lgil": 0,
+    "idealPostcodesName": "Carmarthenshire"
+  },
+  "E07000069": {
+    "name": "Castle Point Borough Council",
+    "url": "https://www.castlepoint.gov.uk",
+    "snac": "22UE",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Castle Point"
+  },
+  "N09000004": {
+    "name": "Causeway Coast and Glens Borough Council",
+    "url": "http://www.eani.org.uk",
+    "snac": null,
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Causeway Coast and Glens"
+  },
+  "E06000056": {
+    "name": "Central Bedfordshire Council",
+    "url": "http://www.centralbedfordshire.gov.uk",
+    "snac": "00KC",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Central Bedfordshire"
+  },
+  "W06000008": {
+    "name": "Ceredigion County Council",
+    "url": "http://www.ceredigion.gov.uk",
+    "snac": "00NQ",
+    "lgsl": 2,
+    "lgil": 0,
+    "idealPostcodesName": "Ceredigion"
+  },
+  "E07000130": {
+    "name": "Charnwood Borough Council",
+    "url": "https://www.charnwood.gov.uk",
+    "snac": "31UC",
+    "lgsl": 13,
+    "lgil": 8,
+    "idealPostcodesName": "Charnwood"
+  },
+  "E07000070": {
+    "name": "Chelmsford City Council",
+    "url": "http://www.chelmsford.gov.uk",
+    "snac": "22UF",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Chelmsford"
+  },
+  "E07000078": {
+    "name": "Cheltenham Borough Council",
+    "url": "http://www.cheltenham.gov.uk",
+    "snac": "23UB",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Cheltenham"
+  },
+  "E07000177": {
+    "name": "Cherwell District Council",
+    "url": "https://www.cherwell.gov.uk",
+    "snac": "38UB",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Cherwell"
+  },
+  "E06000049": {
+    "name": "Cheshire East Council",
+    "url": "https://www.cheshireeast.gov.uk",
+    "snac": "00EQ",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Cheshire East"
+  },
+  "E06000050": {
+    "name": "Cheshire West and Chester Council",
+    "url": "http://www.cheshirewestandchester.gov.uk",
+    "snac": "00EW",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Cheshire West and Chester"
+  },
+  "E07000034": {
+    "name": "Chesterfield Borough Council",
+    "url": "http://www.chesterfield.gov.uk",
+    "snac": "17UD",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Chesterfield"
+  },
+  "E07000225": {
+    "name": "Chichester District Council",
+    "url": "http://www.westsussex.gov.uk",
+    "snac": "45UD",
+    "lgsl": 3,
+    "lgil": 8,
+    "idealPostcodesName": "Chichester"
+  },
+  "E07000005": {
+    "name": "Chiltern District Council",
+    "url": "http://www.chiltern.gov.uk",
+    "snac": "11UC",
+    "lgsl": 4,
+    "lgil": 8,
+    "idealPostcodesName": "Chiltern"
+  },
+  "E07000118": {
+    "name": "Chorley Council",
+    "url": "http://chorley.gov.uk",
+    "snac": "30UE",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Chorley"
+  },
+  "E07000048": {
+    "name": "Christchurch Borough Council",
+    "url": "http://www.dorsetforyou.com",
+    "snac": "19UC",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Christchurch"
+  },
+  "W06000011": {
+    "name": "City and County of Swansea Council",
+    "url": "http://www.swansea.gov.uk",
+    "snac": "00NX",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Swansea"
+  },
+  "E08000032": {
+    "name": "City of Bradford Metropolitan District Council",
+    "url": "https://www.bradford.gov.uk",
+    "snac": "00CX",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Bradford"
+  },
+  "W06000015": {
+    "name": "City of Cardiff Council",
+    "url": "http://www.cardiff.gov.uk",
+    "snac": "00PT",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Cardiff"
+  },
+  "S12000036": {
+    "name": "City of Edinburgh Council",
+    "url": "http://www.edinburgh.gov.uk",
+    "snac": "00QP",
+    "lgsl": 2,
+    "lgil": 0,
+    "idealPostcodesName": "City of Edinburgh"
+  },
+  "E07000138": {
+    "name": "City of Lincoln Council",
+    "url": "https://lincolnshire.fsd.org.uk",
+    "snac": "32UD",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Lincoln"
+  },
+  "E09000001": {
+    "name": "City of London Corporation",
+    "url": "http://www.cityoflondon.gov.uk",
+    "snac": "00AA",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "City of London"
+  },
+  "E09000033": {
+    "name": "City of Westminster",
+    "url": "http://www.westminster.gov.uk",
+    "snac": "00BK",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Westminster"
+  },
+  "E08000031": {
+    "name": "City of Wolverhampton Council",
+    "url": "http://www.wolverhampton.gov.uk",
+    "snac": "00CW",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Wolverhampton"
+  },
+  "E06000014": {
+    "name": "City of York Council",
+    "url": "https://www.york.gov.uk",
+    "snac": "00FF",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "York"
+  },
+  "S12000005": {
+    "name": "Clackmannanshire Council",
+    "url": "https://www.clacks.gov.uk",
+    "snac": "00QF",
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Clackmannanshire"
+  },
+  "E07000071": {
+    "name": "Colchester Borough Council",
+    "url": "http://www.colchester.gov.uk",
+    "snac": "22UG",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Colchester"
+  },
+  "S12000013": {
+    "name": "Comhairle nan Eilean Siar",
+    "url": "https://www.cne-siar.gov.uk",
+    "snac": "00RJ",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Na h-Eileanan Siar"
+  },
+  "W06000003": {
+    "name": "Conwy County Borough Council",
+    "url": "http://www.conwy.gov.uk",
+    "snac": "00NE",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Conwy"
+  },
+  "E07000029": {
+    "name": "Copeland Borough Council",
+    "url": "https://www.copeland.gov.uk",
+    "snac": "16UE",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Copeland"
+  },
+  "E07000150": {
+    "name": "Corby Borough Council",
+    "url": "https://www.corby.gov.uk",
+    "snac": "34UB",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Corby"
+  },
+  "E06000052": {
+    "name": "Cornwall Council",
+    "url": "http://www.cornwall.gov.uk",
+    "snac": "00HE",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Cornwall"
+  },
+  "E07000079": {
+    "name": "Cotswold District Council",
+    "url": "http://www.cotswold.gov.uk",
+    "snac": "23UC",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Cotswold"
+  },
+  "E06000053": {
+    "name": "Council of the Isles of Scilly",
+    "url": "http://www.scilly.gov.uk",
+    "snac": "00HF",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Isles of Scilly"
+  },
+  "E08000026": {
+    "name": "Coventry City Council",
+    "url": "http://www.coventry.gov.uk",
+    "snac": "00CQ",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Coventry"
+  },
+  "E07000163": {
+    "name": "Craven District Council",
+    "url": "http://www.cravendc.gov.uk",
+    "snac": "36UB",
+    "lgsl": 55,
+    "lgil": 8,
+    "idealPostcodesName": "Craven"
+  },
+  "E07000226": {
+    "name": "Crawley Borough Council",
+    "url": "http://www.westsussex.gov.uk",
+    "snac": "45UE",
+    "lgsl": 3,
+    "lgil": 0,
+    "idealPostcodesName": "Crawley"
+  },
+  "E10000006": {
+    "name": "Cumbria County Council",
+    "url": "http://www.cumbria.gov.uk",
+    "snac": "16",
+    "lgsl": 1,
+    "lgil": 0
+  },
+  "E07000096": {
+    "name": "Dacorum Borough Council",
+    "url": "http://www.dacorum.gov.uk",
+    "snac": "26UC",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Dacorum"
+  },
+  "E06000005": {
+    "name": "Darlington Borough Council",
+    "url": "https://www.darlington.gov.uk",
+    "snac": "00EH",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Darlington"
+  },
+  "E07000107": {
+    "name": "Dartford Borough Council",
+    "url": "http://www.dartford.gov.uk",
+    "snac": "29UD",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Dartford"
+  },
+  "E07000151": {
+    "name": "Daventry District Council",
+    "url": "https://www.daventrydc.gov.uk",
+    "snac": "34UC",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Daventry"
+  },
+  "W06000004": {
+    "name": "Denbighshire County Council",
+    "url": "https://www.denbighshire.gov.uk",
+    "snac": "00NG",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Denbighshire"
+  },
+  "E06000015": {
+    "name": "Derby City",
+    "url": "http://www.derby.gov.uk",
+    "snac": "00FK",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Derby"
+  },
+  "E10000007": {
+    "name": "Derbyshire County Council",
+    "url": "http://www.derbyshire.gov.uk",
+    "snac": "17",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000035": {
+    "name": "Derbyshire Dales District Council",
+    "url": "http://www.derbyshiredales.gov.uk",
+    "snac": "17UF",
+    "lgsl": 55,
+    "lgil": 8,
+    "idealPostcodesName": "Derbyshire Dales"
+  },
+  "N09000005": {
+    "name": "Derry City and Strabane District Council",
+    "url": "http://www.eani.org.uk",
+    "snac": null,
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Derry City and Strabane"
+  },
+  "E10000008": {
+    "name": "Devon County Council",
+    "url": "http://www.devon.gov.uk",
+    "snac": "18",
+    "lgsl": 1,
+    "lgil": 0
+  },
+  "E08000017": {
+    "name": "Doncaster Metropolitan Borough Council",
+    "url": "http://www.doncaster.gov.uk",
+    "snac": "00CE",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Doncaster"
+  },
+  "E10000009": {
+    "name": "Dorset County Council",
+    "url": "https://www.dorsetforyou.gov.uk",
+    "snac": "19",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000108": {
+    "name": "Dover District Council",
+    "url": "http://yourleisure.uk.com",
+    "snac": "29UE",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Dover"
+  },
+  "E08000027": {
+    "name": "Dudley Metropolitan Borough Council",
+    "url": "http://www.dudley.gov.uk",
+    "snac": "00CR",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Dudley"
+  },
+  "S12000006": {
+    "name": "Dumfries and Galloway Council",
+    "url": "http://www.dumgal.gov.uk",
+    "snac": "00QH",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Dumfries and Galloway"
+  },
+  "S12000042": {
+    "name": "Dundee City Council",
+    "url": "https://www.dundeecity.gov.uk",
+    "snac": "00QJ",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Dundee City"
+  },
+  "E06000047": {
+    "name": "Durham County Council",
+    "url": "http://www.durham.gov.uk",
+    "snac": "00EJ",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "County Durham"
+  },
+  "S12000008": {
+    "name": "East Ayrshire Council",
+    "url": "https://www.east-ayrshire.gov.uk",
+    "snac": "00QK",
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "East Ayrshire"
+  },
+  "E07000061": {
+    "name": "Eastbourne Borough Council",
+    "url": "http://www.eastbourne.gov.uk",
+    "snac": "21UC",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Eastbourne"
+  },
+  "E07000009": {
+    "name": "East Cambridgeshire District Council",
+    "url": "http://eastcambs.gov.uk",
+    "snac": "12UC",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "East Cambridgeshire"
+  },
+  "E07000040": {
+    "name": "East Devon District Council",
+    "url": "http://eastdevon.gov.uk",
+    "snac": "18UB",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "East Devon"
+  },
+  "E07000049": {
+    "name": "East Dorset District Council",
+    "url": "https://www.dorsetforyou.gov.uk",
+    "snac": "19UD",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "East Dorset"
+  },
+  "S12000045": {
+    "name": "East Dunbartonshire Council",
+    "url": "https://www.eastdunbarton.gov.uk",
+    "snac": "00QL",
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "East Dunbartonshire"
+  },
+  "E07000085": {
+    "name": "East Hampshire District Council",
+    "url": "http://www.easthants.gov.uk",
+    "snac": "24UC",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "East Hampshire"
+  },
+  "E07000242": {
+    "name": "East Hertfordshire District Council",
+    "url": "http://www.eastherts.gov.uk",
+    "snac": "26UD",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "East Hertfordshire"
+  },
+  "E07000086": {
+    "name": "Eastleigh Borough Council",
+    "url": "https://www.eastleigh.gov.uk",
+    "snac": "24UD",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Eastleigh"
+  },
+  "E07000137": {
+    "name": "East Lindsey District Council",
+    "url": "http://www.e-lindsey.gov.uk",
+    "snac": "32UC",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "East Lindsey"
+  },
+  "S12000010": {
+    "name": "East Lothian Council",
+    "url": "https://www.eastlothian.gov.uk",
+    "snac": "00QM",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "East Lothian"
+  },
+  "E07000152": {
+    "name": "East Northamptonshire Council",
+    "url": "http://www.east-northamptonshire.gov.uk",
+    "snac": "34UD",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "East Northamptonshire"
+  },
+  "S12000011": {
+    "name": "East Renfrewshire Council",
+    "url": "https://www.eastrenfrewshire.gov.uk",
+    "snac": "00QN",
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "East Renfrewshire"
+  },
+  "E06000011": {
+    "name": "East Riding of Yorkshire Council",
+    "url": "http://www2.eastriding.gov.uk",
+    "snac": "00FB",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "East Riding of Yorkshire"
+  },
+  "E07000193": {
+    "name": "East Staffordshire Borough Council",
+    "url": "http://www.eaststaffsbc.gov.uk",
+    "snac": "41UC",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "East Staffordshire"
+  },
+  "E10000011": {
+    "name": "East Sussex County Council",
+    "url": "https://new.eastsussex.gov.uk",
+    "snac": "21",
+    "lgsl": 1,
+    "lgil": 0
+  },
+  "E07000030": {
+    "name": "Eden District Council",
+    "url": "https://www.eden.gov.uk",
+    "snac": "16UF",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Eden"
+  },
+  "E07000207": {
+    "name": "Elmbridge Borough Council",
+    "url": "http://www.elmbridge.gov.uk",
+    "snac": "43UB",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Elmbridge"
+  },
+  "E07000072": {
+    "name": "Epping Forest District Council",
+    "url": "http://www.eppingforestdc.gov.uk",
+    "snac": "22UH",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Epping Forest"
+  },
+  "E07000208": {
+    "name": "Epsom and Ewell Borough Council",
+    "url": "http://www.epsom-ewell.gov.uk",
+    "snac": "43UC",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Epsom and Ewell"
+  },
+  "E07000036": {
+    "name": "Erewash Borough Council",
+    "url": "http://erewash.gov.uk",
+    "snac": "17UG",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Erewash"
+  },
+  "E10000012": {
+    "name": "Essex County Council",
+    "url": "http://www.essex.gov.uk",
+    "snac": "22",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000041": {
+    "name": "Exeter City Council",
+    "url": "https://exeter.gov.uk",
+    "snac": "18UC",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Exeter"
+  },
+  "S12000014": {
+    "name": "Falkirk Council",
+    "url": "http://www.falkirk.gov.uk",
+    "snac": "00QQ",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Falkirk"
+  },
+  "E07000087": {
+    "name": "Fareham Borough Council",
+    "url": "http://www.fareham.gov.uk",
+    "snac": "24UE",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Fareham"
+  },
+  "E07000010": {
+    "name": "Fenland District Council",
+    "url": "http://www.fenland.gov.uk",
+    "snac": "12UD",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Fenland"
+  },
+  "N09000006": {
+    "name": "Fermanagh and Omagh District Council",
+    "url": "http://www.eani.org.uk",
+    "snac": null,
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Fermanagh and Omagh"
+  },
+  "S12000015": {
+    "name": "Fife Council",
+    "url": "https://www.fifedirect.org.uk",
+    "snac": "00QR",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "W06000005": {
+    "name": "Flintshire County Council",
+    "url": "http://www.flintshire.gov.uk",
+    "snac": "00NJ",
+    "lgsl": 2,
+    "lgil": 0,
+    "idealPostcodesName": "Flintshire"
+  },
+  "E07000112": {
+    "name": "Folkestone and Hythe Council",
+    "url": "https://www.folkestone-hythe.gov.uk",
+    "snac": "29UL",
+    "lgsl": 55,
+    "lgil": 8,
+    "idealPostcodesName": "Folkestone and Hythe"
+  },
+  "E07000201": {
+    "name": "Forest Heath District Council",
+    "url": "http://www.westsuffolk.gov.uk",
+    "snac": "42UC",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Forest Heath"
+  },
+  "E07000080": {
+    "name": "Forest of Dean District Council",
+    "url": "http://www.fdean.gov.uk",
+    "snac": "23UD",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Forest of Dean"
+  },
+  "E07000119": {
+    "name": "Fylde Borough Council",
+    "url": "http://www.fylde.gov.uk",
+    "snac": "30UF",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Fylde"
+  },
+  "E08000037": {
+    "name": "Gateshead Metropolitan Borough Council",
+    "url": "http://www.gateshead.gov.uk",
+    "snac": "00CH",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Gateshead"
+  },
+  "E07000173": {
+    "name": "Gedling Borough Council",
+    "url": "http://www.gedling.gov.uk",
+    "snac": "37UE",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Gedling"
+  },
+  "S12000046": {
+    "name": "Glasgow City Council",
+    "url": "https://www.glasgow.gov.uk",
+    "snac": "00QS",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Glasgow City"
+  },
+  "E07000081": {
+    "name": "Gloucester City Council",
+    "url": "https://www.gloucester.gov.uk",
+    "snac": "23UE",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Gloucester"
+  },
+  "E10000013": {
+    "name": "Gloucestershire County Council",
+    "url": "http://www.gloucestershire.gov.uk",
+    "snac": "23",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000088": {
+    "name": "Gosport Borough Council",
+    "url": "http://www.gosport.gov.uk",
+    "snac": "24UF",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Gosport"
+  },
+  "E07000109": {
+    "name": "Gravesham Borough Council",
+    "url": "http://www.gravesham.gov.uk",
+    "snac": "29UG",
+    "lgsl": 55,
+    "lgil": 0,
+    "idealPostcodesName": "Gravesham"
+  },
+  "E07000145": {
+    "name": "Great Yarmouth Borough Council",
+    "url": "http://www.great-yarmouth.gov.uk",
+    "snac": "33UD",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Great Yarmouth"
+  },
+  "E07000209": {
+    "name": "Guildford Borough Council",
+    "url": "http://www.guildford.gov.uk",
+    "snac": "43UD",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Guildford"
+  },
+  "W06000002": {
+    "name": "Gwynedd Council",
+    "url": "https://www.gwynedd.llyw.cymru",
+    "snac": "00NC",
+    "lgsl": 2,
+    "lgil": 0,
+    "idealPostcodesName": "Gwynedd"
+  },
+  "E06000006": {
+    "name": "Halton Borough Council",
+    "url": "http://www4.halton.gov.uk",
+    "snac": "00ET",
+    "lgsl": 12,
+    "lgil": 8,
+    "idealPostcodesName": "Halton"
+  },
+  "E07000164": {
+    "name": "Hambleton District Council",
+    "url": "https://www.civicaepay.co.uk",
+    "snac": "36UC",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Hambleton"
+  },
+  "E10000014": {
+    "name": "Hampshire County Council",
+    "url": "http://www3.hants.gov.uk",
+    "snac": "24",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000131": {
+    "name": "Harborough District Council",
+    "url": "http://www.leics.gov.uk",
+    "snac": "31UD",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Harborough"
+  },
+  "E07000073": {
+    "name": "Harlow Council",
+    "url": "http://www.harlow.gov.uk",
+    "snac": "22UJ",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Harlow"
+  },
+  "E07000165": {
+    "name": "Harrogate Borough Council",
+    "url": "https://www.harrogate.gov.uk",
+    "snac": "36UD",
+    "lgsl": 55,
+    "lgil": 8,
+    "idealPostcodesName": "Harrogate"
+  },
+  "E07000089": {
+    "name": "Hart District Council",
+    "url": "http://www.hart.gov.uk",
+    "snac": "24UG",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Hart"
+  },
+  "E06000001": {
+    "name": "Hartlepool Borough Council",
+    "url": "https://www.hartlepool.gov.uk",
+    "snac": "00EB",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Hartlepool"
+  },
+  "E07000062": {
+    "name": "Hastings Borough Council",
+    "url": "http://www.hastings.gov.uk",
+    "snac": "21UD",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Hastings"
+  },
+  "E07000090": {
+    "name": "Havant Borough Council",
+    "url": "https://ip.e-paycapita.com",
+    "snac": "24UH",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Havant"
+  },
+  "E06000019": {
+    "name": "Herefordshire Council",
+    "url": "https://www.herefordshire.gov.uk",
+    "snac": "00GA",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Herefordshire, County of"
+  },
+  "E10000015": {
+    "name": "Hertfordshire County Council",
+    "url": "https://www.hertfordshire.gov.uk",
+    "snac": "26",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000098": {
+    "name": "Hertsmere Borough Council",
+    "url": "http://www.hertsmere.gov.uk",
+    "snac": "26UE",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Hertsmere"
+  },
+  "E07000037": {
+    "name": "High Peak Borough Council",
+    "url": "http://www.highpeak.gov.uk",
+    "snac": "17UH",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "High Peak"
+  },
+  "E07000132": {
+    "name": "Hinckley and Bosworth Borough Council",
+    "url": "https://www.hinckley-bosworth.gov.uk",
+    "snac": "31UE",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Hinckley and Bosworth"
+  },
+  "E07000227": {
+    "name": "Horsham District Council",
+    "url": "https://www.westsussex.gov.uk",
+    "snac": "45UF",
+    "lgsl": 3,
+    "lgil": 0,
+    "idealPostcodesName": "Horsham"
+  },
+  "E06000010": {
+    "name": "Hull City Council",
+    "url": "http://www.hull.gov.uk",
+    "snac": "00FA",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Kingston upon Hull, City of"
+  },
+  "E07000011": {
+    "name": "Huntingdonshire District Council",
+    "url": "https://ip.e-paycapita.com",
+    "snac": "12UE",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Huntingdonshire"
+  },
+  "E07000120": {
+    "name": "Hyndburn Borough Council",
+    "url": "https://www.hyndburnbc.gov.uk",
+    "snac": "30UG",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Hyndburn"
+  },
+  "S12000018": {
+    "name": "Inverclyde Council",
+    "url": "https://www.inverclyde.gov.uk",
+    "snac": "00QU",
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Inverclyde"
+  },
+  "E07000202": {
+    "name": "Ipswich Borough Council",
+    "url": "https://www.ipswich.gov.uk",
+    "snac": "42UD",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Ipswich"
+  },
+  "W06000001": {
+    "name": "Isle of Anglesey County Council",
+    "url": "http://www.anglesey.gov.uk",
+    "snac": "00NA",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Isle of Anglesey"
+  },
+  "E06000046": {
+    "name": "Isle of Wight Council",
+    "url": "https://www.iwight.com",
+    "snac": "00MW",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Isle of Wight"
+  },
+  "E10000016": {
+    "name": "Kent County Council",
+    "url": "https://www.kent.gov.uk",
+    "snac": "29",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000153": {
+    "name": "Kettering Borough Council",
+    "url": "https://secure.kettering.gov.uk",
+    "snac": "34UE",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Kettering"
+  },
+  "E08000034": {
+    "name": "Kirklees Council",
+    "url": "http://www.kirklees.gov.uk",
+    "snac": "00CZ",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Kirklees"
+  },
+  "E08000011": {
+    "name": "Knowsley Metropolitan Borough Council",
+    "url": "http://www.knowsley.gov.uk",
+    "snac": "00BX",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Knowsley"
+  },
+  "E10000017": {
+    "name": "Lancashire County Council",
+    "url": "http://www.lancashire.gov.uk",
+    "snac": "30",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000121": {
+    "name": "Lancaster City Council",
+    "url": "http://www.lancaster.gov.uk",
+    "snac": "30UH",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Lancaster"
+  },
+  "E08000035": {
+    "name": "Leeds City Council",
+    "url": "https://familyinformation.leeds.gov.uk",
+    "snac": "00DA",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Leeds"
+  },
+  "E06000016": {
+    "name": "Leicester City Council",
+    "url": "http://www.leicester.gov.uk",
+    "snac": "00FN",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Leicester"
+  },
+  "E10000018": {
+    "name": "Leicestershire County Council",
+    "url": "http://www.leicestershire.gov.uk",
+    "snac": "31",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000063": {
+    "name": "Lewes District Council",
+    "url": "http://www.lewes.gov.uk",
+    "snac": "21UF",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Lewes"
+  },
+  "E07000194": {
+    "name": "Lichfield District Council",
+    "url": "https://www.lichfielddc.gov.uk",
+    "snac": "41UD",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Lichfield"
+  },
+  "E10000019": {
+    "name": "Lincolnshire County Council",
+    "url": "https://www.lincolnshire.gov.uk",
+    "snac": "32",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "N09000007": {
+    "name": "Lisburn and Castlereagh City Council",
+    "url": "http://www.eani.org.uk",
+    "snac": null,
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Lisburn and Castlereagh"
+  },
+  "E08000012": {
+    "name": "Liverpool City Council",
+    "url": "http://www.liverpool.gov.uk",
+    "snac": "00BY",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Liverpool"
+  },
+  "E09000002": {
+    "name": "London Borough of Barking and Dagenham",
+    "url": "https://www.lbbd.gov.uk",
+    "snac": "00AB",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Barking and Dagenham"
+  },
+  "E09000003": {
+    "name": "London Borough of Barnet",
+    "url": "http://www.barnet.gov.uk",
+    "snac": "00AC",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Barnet"
+  },
+  "E09000004": {
+    "name": "London Borough of Bexley",
+    "url": "https://www.bexley.gov.uk",
+    "snac": "00AD",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Bexley"
+  },
+  "E09000005": {
+    "name": "London Borough of Brent",
+    "url": "http://brent.gov.uk",
+    "snac": "00AE",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Brent"
+  },
+  "E09000006": {
+    "name": "London Borough of Bromley",
+    "url": "http://www.bromley.gov.uk",
+    "snac": "00AF",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Bromley"
+  },
+  "E09000007": {
+    "name": "London Borough of Camden",
+    "url": "http://www.camden.gov.uk",
+    "snac": "00AG",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Camden"
+  },
+  "E09000008": {
+    "name": "London Borough of Croydon",
+    "url": "http://www.croydon.gov.uk",
+    "snac": "00AH",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Croydon"
+  },
+  "E09000009": {
+    "name": "London Borough of Ealing",
+    "url": "http://www.ealing.gov.uk",
+    "snac": "00AJ",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Ealing"
+  },
+  "E09000010": {
+    "name": "London Borough of Enfield",
+    "url": "https://new.enfield.gov.uk",
+    "snac": "00AK",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Enfield"
+  },
+  "E09000012": {
+    "name": "London Borough of Hackney",
+    "url": "http://www.hackneylocaloffer.co.uk",
+    "snac": "00AM",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Hackney"
+  },
+  "E09000013": {
+    "name": "London Borough of Hammersmith & Fulham",
+    "url": "http://www.lbhf.gov.uk",
+    "snac": "00AN",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Hammersmith and Fulham"
+  },
+  "E09000014": {
+    "name": "London Borough of Haringey",
+    "url": "http://www.haringey.gov.uk",
+    "snac": "00AP",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Haringey"
+  },
+  "E09000015": {
+    "name": "London Borough of Harrow",
+    "url": "http://www.harrow.gov.uk",
+    "snac": "00AQ",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Harrow"
+  },
+  "E09000016": {
+    "name": "London Borough of Havering",
+    "url": "http://www.havering.gov.uk",
+    "snac": "00AR",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Havering"
+  },
+  "E09000017": {
+    "name": "London Borough of Hillingdon",
+    "url": "http://www.hillingdon.gov.uk",
+    "snac": "00AS",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Hillingdon"
+  },
+  "E09000018": {
+    "name": "London Borough of Hounslow",
+    "url": "https://www.hounslow.gov.uk",
+    "snac": "00AT",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Hounslow"
+  },
+  "E09000019": {
+    "name": "London Borough of Islington",
+    "url": "https://www.islington.gov.uk",
+    "snac": "00AU",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Islington"
+  },
+  "E09000022": {
+    "name": "London Borough of Lambeth",
+    "url": "http://www.lambeth.gov.uk",
+    "snac": "00AY",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Lambeth"
+  },
+  "E09000023": {
+    "name": "London Borough of Lewisham",
+    "url": "http://www.lewisham.gov.uk",
+    "snac": "00AZ",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Lewisham"
+  },
+  "E09000024": {
+    "name": "London Borough of Merton",
+    "url": "http://www.merton.gov.uk",
+    "snac": "00BA",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Merton"
+  },
+  "E09000025": {
+    "name": "London Borough of Newham",
+    "url": "https://www.newham.gov.uk",
+    "snac": "00BB",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Newham"
+  },
+  "E09000026": {
+    "name": "London Borough of Redbridge",
+    "url": "http://www2.redbridge.gov.uk",
+    "snac": "00BC",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Redbridge"
+  },
+  "E09000027": {
+    "name": "London Borough of Richmond upon Thames",
+    "url": "http://www.richmond.gov.uk",
+    "snac": "00BD",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Richmond upon Thames"
+  },
+  "E09000028": {
+    "name": "London Borough of Southwark",
+    "url": "https://www.southwark.gov.uk",
+    "snac": "00BE",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Southwark"
+  },
+  "E09000029": {
+    "name": "London Borough of Sutton",
+    "url": "https://www.sutton.gov.uk",
+    "snac": "00BF",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Sutton"
+  },
+  "E09000030": {
+    "name": "London Borough of Tower Hamlets",
+    "url": "http://www.towerhamlets.gov.uk",
+    "snac": "00BG",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Tower Hamlets"
+  },
+  "E09000031": {
+    "name": "London Borough of Waltham Forest",
+    "url": "https://www.walthamforest.gov.uk",
+    "snac": "00BH",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Waltham Forest"
+  },
+  "E09000032": {
+    "name": "London Borough of Wandsworth",
+    "url": "http://www.wandsworth.gov.uk",
+    "snac": "00BJ",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Wandsworth"
+  },
+  "E06000032": {
+    "name": "Luton Borough Council",
+    "url": "https://www.luton.gov.uk",
+    "snac": "00KA",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Luton"
+  },
+  "E07000110": {
+    "name": "Maidstone Borough Council",
+    "url": "https://fisonline.tribalhosted.co.uk",
+    "snac": "29UH",
+    "lgsl": 19,
+    "lgil": 8,
+    "idealPostcodesName": "Maidstone"
+  },
+  "E07000074": {
+    "name": "Maldon District Council",
+    "url": "http://www.maldon.gov.uk",
+    "snac": "22UK",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Maldon"
+  },
+  "E07000235": {
+    "name": "Malvern Hills District Council",
+    "url": "http://www.worcestershire.gov.uk",
+    "snac": "47UC",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Malvern Hills"
+  },
+  "E08000003": {
+    "name": "Manchester City Council",
+    "url": "http://www.manchester.gov.uk",
+    "snac": "00BN",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Manchester"
+  },
+  "E07000174": {
+    "name": "Mansfield District Council",
+    "url": "http://www.mansfield.gov.uk",
+    "snac": "37UF",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Mansfield"
+  },
+  "E06000035": {
+    "name": "Medway Council",
+    "url": "https://www.medway.gov.uk",
+    "snac": "00LC",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Medway"
+  },
+  "E07000133": {
+    "name": "Melton Borough Council",
+    "url": "http://www.melton.gov.uk",
+    "snac": "31UG",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Melton"
+  },
+  "E07000187": {
+    "name": "Mendip District Council",
+    "url": "http://www.mendip.gov.uk",
+    "snac": "40UB",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Mendip"
+  },
+  "W06000024": {
+    "name": "Merthyr Tydfil County Borough Council",
+    "url": "http://www.merthyr.gov.uk",
+    "snac": "00PH",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Merthyr Tydfil"
+  },
+  "N09000008": {
+    "name": "Mid and East Antrim Borough Council",
+    "url": "http://www.eani.org.uk",
+    "snac": null,
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Mid and East Antrim"
+  },
+  "E07000042": {
+    "name": "Mid Devon District Council",
+    "url": "https://new.middevon.gov.uk",
+    "snac": "18UD",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Mid Devon"
+  },
+  "E06000002": {
+    "name": "Middlesbrough Borough Council",
+    "url": "https://www.middlesbrough.gov.uk",
+    "snac": "00EC",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Middlesbrough"
+  },
+  "S12000019": {
+    "name": "Midlothian Council",
+    "url": "https://www.midlothian.gov.uk",
+    "snac": "00QW",
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Midlothian"
+  },
+  "E07000203": {
+    "name": "Mid Suffolk District Council",
+    "url": "http://www.midsuffolk.gov.uk",
+    "snac": "42UE",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Mid Suffolk"
+  },
+  "E07000228": {
+    "name": "Mid Sussex District Council",
+    "url": "http://www.midsussex.gov.uk",
+    "snac": "45UG",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Mid Sussex"
+  },
+  "N09000009": {
+    "name": "Mid Ulster District Council",
+    "url": "https://www.nidirect.gov.uk",
+    "snac": null,
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Mid Ulster"
+  },
+  "E06000042": {
+    "name": "Milton Keynes Council",
+    "url": "http://www.milton-keynes.gov.uk",
+    "snac": "00MG",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Milton Keynes"
+  },
+  "E07000210": {
+    "name": "Mole Valley District Council",
+    "url": "https://www.molevalley.gov.uk",
+    "snac": "43UE",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Mole Valley"
+  },
+  "W06000021": {
+    "name": "Monmouthshire County Council",
+    "url": "http://www.monmouthshire.gov.uk",
+    "snac": "00PP",
+    "lgsl": 2,
+    "lgil": 0,
+    "idealPostcodesName": "Monmouthshire"
+  },
+  "W06000012": {
+    "name": "Neath Port Talbot County Borough Council",
+    "url": "http://www.npt.gov.uk",
+    "snac": "00NZ",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Neath Port Talbot"
+  },
+  "E07000175": {
+    "name": "Newark and Sherwood District Council",
+    "url": "http://www.newark-sherwooddc.gov.uk",
+    "snac": "37UG",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Newark and Sherwood"
+  },
+  "E08000021": {
+    "name": "Newcastle City Council",
+    "url": "http://www.newcastle.gov.uk",
+    "snac": "00CJ",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Newcastle upon Tyne"
+  },
+  "E07000195": {
+    "name": "Newcastle-under-Lyme District Council",
+    "url": "https://www.newcastle-staffs.gov.uk",
+    "snac": "41UE",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Newcastle-under-Lyme"
+  },
+  "E07000091": {
+    "name": "New Forest District Council",
+    "url": "http://www.newforest.gov.uk",
+    "snac": "24UJ",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "New Forest"
+  },
+  "W06000022": {
+    "name": "Newport City Council",
+    "url": "http://www.newport.gov.uk",
+    "snac": "00PR",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Newport"
+  },
+  "N09000010": {
+    "name": "Newry, Mourne and Down District Council",
+    "url": "http://www.eani.org.uk",
+    "snac": null,
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Newry, Mourne and Down"
+  },
+  "E10000020": {
+    "name": "Norfolk County Council",
+    "url": "https://www.norfolk.gov.uk",
+    "snac": "33",
+    "lgsl": 1,
+    "lgil": 0
+  },
+  "E07000154": {
+    "name": "Northampton Borough Council",
+    "url": "http://www.northampton.gov.uk",
+    "snac": "34UF",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Northampton"
+  },
+  "E10000021": {
+    "name": "Northamptonshire County Council",
+    "url": "http://www3.northamptonshire.gov.uk",
+    "snac": "34",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "S12000021": {
+    "name": "North Ayrshire Council",
+    "url": "https://www.north-ayrshire.gov.uk",
+    "snac": "00QY",
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "North Ayrshire"
+  },
+  "E07000043": {
+    "name": "North Devon Council",
+    "url": "http://www.northdevon.gov.uk",
+    "snac": "18UE",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "North Devon"
+  },
+  "E07000050": {
+    "name": "North Dorset District Council",
+    "url": "https://www.dorsetforyou.gov.uk",
+    "snac": "19UE",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "North Dorset"
+  },
+  "E07000038": {
+    "name": "North East Derbyshire District Council",
+    "url": "http://www.ne-derbyshire.gov.uk",
+    "snac": "17UJ",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "North East Derbyshire"
+  },
+  "E06000012": {
+    "name": "North East Lincolnshire Council",
+    "url": "https://www.nelincs.gov.uk",
+    "snac": "00FC",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "North East Lincolnshire"
+  },
+  "E07000099": {
+    "name": "North Hertfordshire District Council",
+    "url": "http://www.north-herts.gov.uk",
+    "snac": "26UF",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "North Hertfordshire"
+  },
+  "E07000139": {
+    "name": "North Kesteven District Council",
+    "url": "http://www.n-kesteven.gov.uk",
+    "snac": "32UE",
+    "lgsl": 56,
+    "lgil": 0,
+    "idealPostcodesName": "North Kesteven"
+  },
+  "S12000044": {
+    "name": "North Lanarkshire Council",
+    "url": "https://www.northlanarkshire.gov.uk",
+    "snac": "00QZ",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "North Lanarkshire"
+  },
+  "E06000013": {
+    "name": "North Lincolnshire Council",
+    "url": "http://www.northlincs.gov.uk",
+    "snac": "00FD",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "North Lincolnshire"
+  },
+  "E07000147": {
+    "name": "North Norfolk District Council",
+    "url": "http://www.northnorfolk.org",
+    "snac": "33UF",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "North Norfolk"
+  },
+  "E06000024": {
+    "name": "North Somerset Council",
+    "url": "http://www.n-somerset.gov.uk",
+    "snac": "00HC",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "North Somerset"
+  },
+  "E08000022": {
+    "name": "North Tyneside Council",
+    "url": "http://my.northtyneside.gov.uk",
+    "snac": "00CK",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "North Tyneside"
+  },
+  "E06000057": {
+    "name": "Northumberland County Council",
+    "url": "http://www.northumberland.gov.uk",
+    "snac": "00EM",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Northumberland"
+  },
+  "E07000218": {
+    "name": "North Warwickshire Borough Council",
+    "url": "https://www.northwarks.gov.uk",
+    "snac": "44UB",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "North Warwickshire"
+  },
+  "E07000134": {
+    "name": "North West Leicestershire District Council",
+    "url": "https://www.nwleics.gov.uk",
+    "snac": "31UH",
+    "lgsl": 13,
+    "lgil": 8,
+    "idealPostcodesName": "North West Leicestershire"
+  },
+  "E10000023": {
+    "name": "North Yorkshire County Council",
+    "url": "http://www.northyorks.gov.uk",
+    "snac": "36",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000148": {
+    "name": "Norwich City Council",
+    "url": "http://www.norwich.gov.uk",
+    "snac": "33UG",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Norwich"
+  },
+  "E06000018": {
+    "name": "Nottingham City Council",
+    "url": "http://www.nottinghamcity.gov.uk",
+    "snac": "00FY",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Nottingham"
+  },
+  "E10000024": {
+    "name": "Nottinghamshire County Council",
+    "url": "http://www.nottinghamshire.gov.uk",
+    "snac": "37",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000219": {
+    "name": "Nuneaton and Bedworth Borough Council",
+    "url": "https://www.nuneatonandbedworth.gov.uk",
+    "snac": "44UC",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Nuneaton and Bedworth"
+  },
+  "E07000135": {
+    "name": "Oadby and Wigston District Council",
+    "url": "http://www.oadby-wigston.gov.uk",
+    "snac": "31UJ",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Oadby and Wigston"
+  },
+  "E08000004": {
+    "name": "Oldham Metropolitan Borough Council",
+    "url": "https://www.oldham.gov.uk",
+    "snac": "00BP",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Oldham"
+  },
+  "S12000023": {
+    "name": "Orkney Islands Council",
+    "url": "http://www.orkney.gov.uk",
+    "snac": "00RA",
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Orkney Islands"
+  },
+  "E07000178": {
+    "name": "Oxford City Council",
+    "url": "https://www.oxford.gov.uk",
+    "snac": "38UC",
+    "lgsl": 55,
+    "lgil": 8,
+    "idealPostcodesName": "Oxford"
+  },
+  "E10000025": {
+    "name": "Oxfordshire County Council",
+    "url": "http://www.oxfordshire.gov.uk",
+    "snac": "38",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "W06000009": {
+    "name": "Pembrokeshire County Council",
+    "url": "http://www.pembrokeshire.gov.uk",
+    "snac": "00NS",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Pembrokeshire"
+  },
+  "E07000122": {
+    "name": "Pendle Borough Council",
+    "url": "http://www.lancashire.gov.uk",
+    "snac": "30UJ",
+    "lgsl": 13,
+    "lgil": 8,
+    "idealPostcodesName": "Pendle"
+  },
+  "S12000024": {
+    "name": "Perth and Kinross Council",
+    "url": "http://www.pkc.gov.uk",
+    "snac": "00RB",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E06000031": {
+    "name": "Peterborough City Council",
+    "url": "https://www.peterborough.gov.uk",
+    "snac": "00JA",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Peterborough"
+  },
+  "E06000026": {
+    "name": "Plymouth City Council",
+    "url": "http://www.plymouth.gov.uk",
+    "snac": "00HG",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Plymouth"
+  },
+  "E06000044": {
+    "name": "Portsmouth City Council",
+    "url": "https://www.portsmouth.gov.uk",
+    "snac": "00MR",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Portsmouth"
+  },
+  "W06000023": {
+    "name": "Powys County Council",
+    "url": "http://www.powys.gov.uk",
+    "snac": "00NN",
+    "lgsl": 2,
+    "lgil": 0,
+    "idealPostcodesName": "Powys"
+  },
+  "E07000123": {
+    "name": "Preston City Council",
+    "url": "http://www.lancashire.gov.uk",
+    "snac": "30UK",
+    "lgsl": 19,
+    "lgil": 8,
+    "idealPostcodesName": "Preston"
+  },
+  "E07000051": {
+    "name": "Purbeck District Council",
+    "url": "http://www.dorsetforyou.com",
+    "snac": "19UG",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Purbeck"
+  },
+  "E06000038": {
+    "name": "Reading Borough Council",
+    "url": "http://www.reading.gov.uk",
+    "snac": "00MC",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Reading"
+  },
+  "E06000003": {
+    "name": "Redcar and Cleveland Borough Council",
+    "url": "http://www.redcar-cleveland.gov.uk",
+    "snac": "00EE",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Redcar and Cleveland"
+  },
+  "E07000236": {
+    "name": "Redditch Borough Council",
+    "url": "http://www.redditchbc.gov.uk",
+    "snac": "47UD",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Redditch"
+  },
+  "E07000211": {
+    "name": "Reigate and Banstead Borough Council",
+    "url": "http://www.reigate-banstead.gov.uk",
+    "snac": "43UF",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Reigate and Banstead"
+  },
+  "S12000038": {
+    "name": "Renfrewshire Council",
+    "url": "http://www.renfrewshire.gov.uk",
+    "snac": "00RC",
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Renfrewshire"
+  },
+  "W06000016": {
+    "name": "Rhondda Cynon Taf County Borough Council",
+    "url": "https://www.rctcbc.gov.uk",
+    "snac": "00PF",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Rhondda Cynon Taf"
+  },
+  "E07000124": {
+    "name": "Ribble Valley Borough Council",
+    "url": "https://www.ribblevalley.gov.uk",
+    "snac": "30UL",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Ribble Valley"
+  },
+  "E07000166": {
+    "name": "Richmondshire District Council",
+    "url": "http://www.richmondshire.gov.uk",
+    "snac": "36UE",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Richmondshire"
+  },
+  "E08000005": {
+    "name": "Rochdale Metropolitan Borough Council",
+    "url": "http://www.rochdale.gov.uk",
+    "snac": "00BQ",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Rochdale"
+  },
+  "E07000075": {
+    "name": "Rochford District Council",
+    "url": "https://rochford.firmstep.com",
+    "snac": "22UL",
+    "lgsl": 56,
+    "lgil": 0,
+    "idealPostcodesName": "Rochford"
+  },
+  "E07000125": {
+    "name": "Rossendale Borough Council",
+    "url": "https://www.rossendale.gov.uk",
+    "snac": "30UM",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Rossendale"
+  },
+  "E07000064": {
+    "name": "Rother District Council",
+    "url": "http://www.rother.gov.uk",
+    "snac": "21UG",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Rother"
+  },
+  "E08000018": {
+    "name": "Rotherham Metropolitan Borough Council",
+    "url": "http://www.rotherham.gov.uk",
+    "snac": "00CF",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Rotherham"
+  },
+  "E09000011": {
+    "name": "Royal Borough of Greenwich",
+    "url": "http://www.royalgreenwich.gov.uk",
+    "snac": "00AL",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Greenwich"
+  },
+  "E09000020": {
+    "name": "Royal Borough of Kensington and Chelsea",
+    "url": "https://www.rbkc.gov.uk",
+    "snac": "00AW",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Kensington and Chelsea"
+  },
+  "E09000021": {
+    "name": "Royal Borough of Kingston upon Thames",
+    "url": "http://www.kingston.gov.uk",
+    "snac": "00AX",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Kingston upon Thames"
+  },
+  "E06000040": {
+    "name": "Royal Borough of Windsor and Maidenhead",
+    "url": "http://www3.rbwm.gov.uk",
+    "snac": "00ME",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Windsor and Maidenhead"
+  },
+  "E07000220": {
+    "name": "Rugby Borough Council",
+    "url": "http://www.rugby.gov.uk",
+    "snac": "44UD",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Rugby"
+  },
+  "E07000212": {
+    "name": "Runnymede Borough Council",
+    "url": "https://runnymede.gov.uk",
+    "snac": "43UG",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Runnymede"
+  },
+  "E07000176": {
+    "name": "Rushcliffe Borough Council",
+    "url": "http://www.rushcliffe.gov.uk",
+    "snac": "37UJ",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Rushcliffe"
+  },
+  "E07000092": {
+    "name": "Rushmoor Borough Council",
+    "url": "http://www.rushmoor.gov.uk",
+    "snac": "24UL",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Rushmoor"
+  },
+  "E06000017": {
+    "name": "Rutland County Council",
+    "url": "http://www.rutland.gov.uk",
+    "snac": "00FP",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Rutland"
+  },
+  "E07000167": {
+    "name": "Ryedale District Council",
+    "url": "http://www.ryedale.gov.uk",
+    "snac": "36UF",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Ryedale"
+  },
+  "E08000006": {
+    "name": "Salford City Council",
+    "url": "https://www.salford.gov.uk",
+    "snac": "00BR",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Salford"
+  },
+  "E08000028": {
+    "name": "Sandwell Metropolitan Borough Council",
+    "url": "http://www.sandwell.gov.uk",
+    "snac": "00CS",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Sandwell"
+  },
+  "E07000168": {
+    "name": "Scarborough Borough Council",
+    "url": "http://www.scarborough.gov.uk",
+    "snac": "36UG",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Scarborough"
+  },
+  "S12000026": {
+    "name": "Scottish Borders Council",
+    "url": "https://www.scotborders.gov.uk",
+    "snac": "00QE",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Scottish Borders"
+  },
+  "E07000188": {
+    "name": "Sedgemoor District Council",
+    "url": "http://www.sedgemoor.gov.uk",
+    "snac": "40UC",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Sedgemoor"
+  },
+  "E08000014": {
+    "name": "Sefton Metropolitan Borough Council",
+    "url": "http://www.sefton.gov.uk",
+    "snac": "00CA",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Sefton"
+  },
+  "E07000169": {
+    "name": "Selby District Council",
+    "url": "http://www.selby.gov.uk",
+    "snac": "36UH",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Selby"
+  },
+  "E07000111": {
+    "name": "Sevenoaks District Council",
+    "url": "http://www.sevenoaks.gov.uk",
+    "snac": "29UK",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Sevenoaks"
+  },
+  "E08000019": {
+    "name": "Sheffield City Council",
+    "url": "https://www.sheffield.gov.uk",
+    "snac": "00CG",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Sheffield"
+  },
+  "S12000027": {
+    "name": "Shetland Islands Council",
+    "url": "https://www.shetland.gov.uk",
+    "snac": "00RD",
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Shetland Islands"
+  },
+  "E06000051": {
+    "name": "Shropshire Council",
+    "url": "https://shropshire.gov.uk",
+    "snac": "00GG",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Shropshire"
+  },
+  "E06000039": {
+    "name": "Slough Borough Council",
+    "url": "http://www.slough.gov.uk",
+    "snac": "00MD",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Slough"
+  },
+  "E08000029": {
+    "name": "Solihull Metropolitan Borough Council",
+    "url": "http://www.solihull.gov.uk",
+    "snac": "00CT",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Solihull"
+  },
+  "E10000027": {
+    "name": "Somerset County Council",
+    "url": "http://www.somerset.gov.uk",
+    "snac": "40",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E06000045": {
+    "name": "Southampton City Council",
+    "url": "http://www.southampton.gov.uk",
+    "snac": "00MS",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Southampton"
+  },
+  "S12000028": {
+    "name": "South Ayrshire Council",
+    "url": "https://www.south-ayrshire.gov.uk",
+    "snac": "00RE",
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "South Ayrshire"
+  },
+  "E07000006": {
+    "name": "South Bucks District Council",
+    "url": "http://www.southbucks.gov.uk",
+    "snac": "11UE",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "South Bucks"
+  },
+  "E07000012": {
+    "name": "South Cambridgeshire District Council",
+    "url": "https://www.scambs.gov.uk",
+    "snac": "12UG",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "South Cambridgeshire"
+  },
+  "E07000039": {
+    "name": "South Derbyshire District Council",
+    "url": "http://www.south-derbys.gov.uk",
+    "snac": "17UK",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "South Derbyshire"
+  },
+  "E06000033": {
+    "name": "Southend-on-Sea Borough Council",
+    "url": "http://www.southend.gov.uk",
+    "snac": "00KF",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Southend-on-Sea"
+  },
+  "E06000025": {
+    "name": "South Gloucestershire Council",
+    "url": "http://www.southglos.gov.uk",
+    "snac": "00HD",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "South Gloucestershire"
+  },
+  "E07000044": {
+    "name": "South Hams District Council",
+    "url": "http://www.southhams.gov.uk",
+    "snac": "18UG",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "South Hams"
+  },
+  "E07000140": {
+    "name": "South Holland District Council",
+    "url": "http://www.sholland.gov.uk",
+    "snac": "32UF",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "South Holland"
+  },
+  "E07000141": {
+    "name": "South Kesteven District Council",
+    "url": "http://www.southkesteven.gov.uk",
+    "snac": "32UG",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "South Kesteven"
+  },
+  "E07000031": {
+    "name": "South Lakeland District Council",
+    "url": "http://www.southlakeland.gov.uk",
+    "snac": "16UG",
+    "lgsl": 48,
+    "lgil": 8,
+    "idealPostcodesName": "South Lakeland"
+  },
+  "S12000029": {
+    "name": "South Lanarkshire Council",
+    "url": "http://www.southlanarkshire.gov.uk",
+    "snac": "00RF",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "South Lanarkshire"
+  },
+  "E07000149": {
+    "name": "South Norfolk District Council",
+    "url": "http://www.south-norfolk.gov.uk",
+    "snac": "33UH",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "South Norfolk"
+  },
+  "E07000155": {
+    "name": "South Northamptonshire Council",
+    "url": "https://www.southnorthants.gov.uk",
+    "snac": "34UG",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "South Northamptonshire"
+  },
+  "E07000179": {
+    "name": "South Oxfordshire District Council",
+    "url": "http://www.southoxon.gov.uk",
+    "snac": "38UD",
+    "lgsl": 56,
+    "lgil": 0,
+    "idealPostcodesName": "South Oxfordshire"
+  },
+  "E07000126": {
+    "name": "South Ribble Borough Council",
+    "url": "http://www.southribble.gov.uk",
+    "snac": "30UN",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "South Ribble"
+  },
+  "E07000189": {
+    "name": "South Somerset District Council",
+    "url": "http://www.somerset.gov.uk",
+    "snac": "40UD",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "South Somerset"
+  },
+  "E07000196": {
+    "name": "South Staffordshire Council",
+    "url": "https://www.staffordshire.gov.uk",
+    "snac": "41UF",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "South Staffordshire"
+  },
+  "E08000023": {
+    "name": "South Tyneside Council",
+    "url": "https://www.southtyneside.gov.uk",
+    "snac": "00CL",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "South Tyneside"
+  },
+  "E07000213": {
+    "name": "Spelthorne Borough Council",
+    "url": "http://www.spelthorne.gov.uk",
+    "snac": "43UH",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Spelthorne"
+  },
+  "E07000197": {
+    "name": "Stafford Borough Council",
+    "url": "http://www.staffordbc.gov.uk",
+    "snac": "41UG",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Stafford"
+  },
+  "E10000028": {
+    "name": "Staffordshire County Council",
+    "url": "http://education.staffordshire.gov.uk",
+    "snac": "41",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000198": {
+    "name": "Staffordshire Moorlands District Council",
+    "url": "http://www.staffsmoorlands.gov.uk",
+    "snac": "41UH",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Staffordshire Moorlands"
+  },
+  "E07000240": {
+    "name": "St Albans City and District Council",
+    "url": "http://www.stalbans.gov.uk",
+    "snac": "26UG",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "St Albans"
+  },
+  "E07000204": {
+    "name": "St Edmundsbury Borough Council",
+    "url": "http://www.westsuffolk.gov.uk",
+    "snac": "42UF",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "St Edmundsbury"
+  },
+  "E07000243": {
+    "name": "Stevenage Borough Council",
+    "url": "http://www.stevenage.gov.uk",
+    "snac": "26UH",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Stevenage"
+  },
+  "E08000013": {
+    "name": "St Helens Council",
+    "url": "https://www.sthelens.gov.uk",
+    "snac": "00BZ",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "St. Helens"
+  },
+  "S12000030": {
+    "name": "Stirling Council",
+    "url": "https://my.stirling.gov.uk",
+    "snac": "00RG",
+    "lgsl": 13,
+    "lgil": 0,
+    "idealPostcodesName": "Stirling"
+  },
+  "E08000007": {
+    "name": "Stockport Metropolitan Borough Council",
+    "url": "https://www.stockport.gov.uk",
+    "snac": "00BS",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Stockport"
+  },
+  "E06000004": {
+    "name": "Stockton-on-Tees Borough Council",
+    "url": "https://www.stockton.gov.uk",
+    "snac": "00EF",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Stockton-on-Tees"
+  },
+  "E06000021": {
+    "name": "Stoke-on-Trent City Council",
+    "url": "http://www.stoke.gov.uk",
+    "snac": "00GL",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Stoke-on-Trent"
+  },
+  "E07000221": {
+    "name": "Stratford-on-Avon District Council",
+    "url": "https://www.stratford.gov.uk",
+    "snac": "44UE",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Stratford-on-Avon"
+  },
+  "E07000082": {
+    "name": "Stroud District Council",
+    "url": "https://www.stroud.gov.uk",
+    "snac": "23UF",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Stroud"
+  },
+  "E07000205": {
+    "name": "Suffolk Coastal District Council",
+    "url": "http://www.angliarevenues.gov.uk",
+    "snac": "42UG",
+    "lgsl": 56,
+    "lgil": 0,
+    "idealPostcodesName": "Suffolk Coastal"
+  },
+  "E10000029": {
+    "name": "Suffolk County Council",
+    "url": "https://www.suffolk.gov.uk",
+    "snac": "42",
+    "lgsl": 1,
+    "lgil": 0
+  },
+  "E08000024": {
+    "name": "Sunderland City Council",
+    "url": "http://www.sunderland.gov.uk",
+    "snac": "00CM",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Sunderland"
+  },
+  "E10000030": {
+    "name": "Surrey County Council",
+    "url": "http://www.surreycc.gov.uk",
+    "snac": "43",
+    "lgsl": 1,
+    "lgil": 0
+  },
+  "E07000214": {
+    "name": "Surrey Heath Borough Council",
+    "url": "https://www.surreyheath.gov.uk",
+    "snac": "43UJ",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Surrey Heath"
+  },
+  "E07000113": {
+    "name": "Swale Borough Council",
+    "url": "http://www.swale.gov.uk",
+    "snac": "29UM",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Swale"
+  },
+  "E06000030": {
+    "name": "Swindon Borough Council",
+    "url": "http://www.swindon.gov.uk",
+    "snac": "00HX",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Swindon"
+  },
+  "E08000008": {
+    "name": "Tameside Metropolitan Borough Council",
+    "url": "http://www.tameside.gov.uk",
+    "snac": "00BT",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Tameside"
+  },
+  "E07000199": {
+    "name": "Tamworth Borough Council",
+    "url": "http://www.tamworth.gov.uk",
+    "snac": "41UK",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Tamworth"
+  },
+  "E07000215": {
+    "name": "Tandridge District Council",
+    "url": "http://www.tandridge.gov.uk",
+    "snac": "43UK",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Tandridge"
+  },
+  "E07000190": {
+    "name": "Taunton Deane Borough Council",
+    "url": "http://www.tauntondeane.gov.uk",
+    "snac": "40UE",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Taunton Deane"
+  },
+  "E07000045": {
+    "name": "Teignbridge District Council",
+    "url": "http://www.teignbridge.gov.uk",
+    "snac": "18UH",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Teignbridge"
+  },
+  "E06000020": {
+    "name": "Telford & Wrekin Council",
+    "url": "http://www.telford.gov.uk",
+    "snac": "00GF",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Telford and Wrekin"
+  },
+  "E07000076": {
+    "name": "Tendring District Council",
+    "url": "http://www.tendringdc.gov.uk",
+    "snac": "22UN",
+    "lgsl": 13,
+    "lgil": 8,
+    "idealPostcodesName": "Tendring"
+  },
+  "E07000093": {
+    "name": "Test Valley Borough Council",
+    "url": "http://www3.hants.gov.uk",
+    "snac": "24UN",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Test Valley"
+  },
+  "E07000083": {
+    "name": "Tewkesbury Borough Council",
+    "url": "http://www.gloucestershire.gov.uk",
+    "snac": "23UG",
+    "lgsl": 3,
+    "lgil": 8,
+    "idealPostcodesName": "Tewkesbury"
+  },
+  "E07000114": {
+    "name": "Thanet District Council",
+    "url": "https://www.thanet.gov.uk",
+    "snac": "29UN",
+    "lgsl": 55,
+    "lgil": 0,
+    "idealPostcodesName": "Thanet"
+  },
+  "S12000017": {
+    "name": "The Highland Council",
+    "url": "http://www.highland.gov.uk",
+    "snac": "00QT",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "Highland"
+  },
+  "S12000020": {
+    "name": "The Moray Council",
+    "url": "http://www.moray.gov.uk",
+    "snac": "00QX",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Moray"
+  },
+  "E07000102": {
+    "name": "Three Rivers District Council",
+    "url": "http://www.threerivers.gov.uk",
+    "snac": "26UJ",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Three Rivers"
+  },
+  "E06000034": {
+    "name": "Thurrock Council",
+    "url": "https://www.thurrock.gov.uk",
+    "snac": "00KG",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Thurrock"
+  },
+  "E07000115": {
+    "name": "Tonbridge and Malling Borough Council",
+    "url": "http://www.tmbc.gov.uk",
+    "snac": "29UP",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Tonbridge and Malling"
+  },
+  "E06000027": {
+    "name": "Torbay Council",
+    "url": "http://www.torbay.gov.uk",
+    "snac": "00HH",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Torbay"
+  },
+  "W06000020": {
+    "name": "Torfaen County Borough Council",
+    "url": "http://www.torfaen.gov.uk",
+    "snac": "00PM",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Torfaen"
+  },
+  "E07000046": {
+    "name": "Torridge District Council",
+    "url": "http://www.torridge.gov.uk",
+    "snac": "18UK",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Torridge"
+  },
+  "E08000009": {
+    "name": "Trafford Metropolitan Borough Council",
+    "url": "http://www.trafford.gov.uk",
+    "snac": "00BU",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Trafford"
+  },
+  "E07000116": {
+    "name": "Tunbridge Wells Borough Council",
+    "url": "http://www.tunbridgewells.gov.uk",
+    "snac": "29UQ",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Tunbridge Wells"
+  },
+  "E07000077": {
+    "name": "Uttlesford District Council",
+    "url": "http://www.uttlesford.gov.uk",
+    "snac": "22UQ",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Uttlesford"
+  },
+  "W06000014": {
+    "name": "Vale of Glamorgan Council",
+    "url": "http://www.valeofglamorgan.gov.uk",
+    "snac": "00PD",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Vale of Glamorgan"
+  },
+  "E07000180": {
+    "name": "Vale of White Horse District Council",
+    "url": "http://www.whitehorsedc.gov.uk",
+    "snac": "38UE",
+    "lgsl": 56,
+    "lgil": 0,
+    "idealPostcodesName": "Vale of White Horse"
+  },
+  "E08000036": {
+    "name": "Wakefield Metropolitan District Council",
+    "url": "http://www.wakefield.gov.uk",
+    "snac": "00DB",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Wakefield"
+  },
+  "E08000030": {
+    "name": "Walsall Metropolitan Borough Council",
+    "url": "https://go.walsall.gov.uk",
+    "snac": "00CU",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Walsall"
+  },
+  "E06000007": {
+    "name": "Warrington Borough Council",
+    "url": "https://www.warrington.gov.uk",
+    "snac": "00EU",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Warrington"
+  },
+  "E07000222": {
+    "name": "Warwick District Council",
+    "url": "http://www.warwickdc.gov.uk",
+    "snac": "44UF",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Warwick"
+  },
+  "E10000031": {
+    "name": "Warwickshire County Council",
+    "url": "http://www.warwickshire.gov.uk",
+    "snac": "44",
+    "lgsl": 1,
+    "lgil": 0
+  },
+  "E07000103": {
+    "name": "Watford Borough Council",
+    "url": "https://www.watford.gov.uk",
+    "snac": "26UK",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Watford"
+  },
+  "E07000206": {
+    "name": "Waveney District Council",
+    "url": "http://www.eastsuffolk.gov.uk",
+    "snac": "42UH",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Waveney"
+  },
+  "E07000216": {
+    "name": "Waverley Borough Council",
+    "url": "http://www.waverley.gov.uk",
+    "snac": "43UL",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Waverley"
+  },
+  "E07000065": {
+    "name": "Wealden District Council",
+    "url": "http://www.wealden.gov.uk",
+    "snac": "21UH",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Wealden"
+  },
+  "E07000156": {
+    "name": "Wellingborough Borough Council",
+    "url": "http://www.wellingborough.gov.uk",
+    "snac": "34UH",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Wellingborough"
+  },
+  "E07000241": {
+    "name": "Welwyn Hatfield Council",
+    "url": "http://www.welhat.gov.uk",
+    "snac": "26UL",
+    "lgsl": 55,
+    "lgil": 0,
+    "idealPostcodesName": "Welwyn Hatfield"
+  },
+  "E06000037": {
+    "name": "West Berkshire Council",
+    "url": "http://info.westberks.gov.uk",
+    "snac": "00MB",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "West Berkshire"
+  },
+  "E07000047": {
+    "name": "West Devon Borough Council",
+    "url": "http://www.westdevon.gov.uk",
+    "snac": "18UL",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "West Devon"
+  },
+  "E07000052": {
+    "name": "West Dorset District Council",
+    "url": "http://www.dorsetforyou.com",
+    "snac": "19UH",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "West Dorset"
+  },
+  "S12000039": {
+    "name": "West Dunbartonshire Council",
+    "url": "https://www.west-dunbarton.gov.uk",
+    "snac": "00QG",
+    "lgsl": 2,
+    "lgil": 8,
+    "idealPostcodesName": "West Dunbartonshire"
+  },
+  "E07000127": {
+    "name": "West Lancashire Borough Council",
+    "url": "http://www.westlancs.gov.uk",
+    "snac": "30UP",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "West Lancashire"
+  },
+  "E07000142": {
+    "name": "West Lindsey District Council",
+    "url": "http://www.west-lindsey.gov.uk",
+    "snac": "32UH",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "West Lindsey"
+  },
+  "S12000040": {
+    "name": "West Lothian Council",
+    "url": "https://www.westlothian.gov.uk",
+    "snac": "00RH",
+    "lgsl": 12,
+    "lgil": 8,
+    "idealPostcodesName": "West Lothian"
+  },
+  "E07000181": {
+    "name": "West Oxfordshire District Council",
+    "url": "http://www.westoxon.gov.uk",
+    "snac": "38UF",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "West Oxfordshire"
+  },
+  "E07000191": {
+    "name": "West Somerset Council",
+    "url": "http://www.westsomersetonline.gov.uk",
+    "snac": "40UF",
+    "lgsl": 56,
+    "lgil": 0,
+    "idealPostcodesName": "West Somerset"
+  },
+  "E10000032": {
+    "name": "West Sussex County Council",
+    "url": "http://www.westsussex.gov.uk",
+    "snac": "45",
+    "lgsl": 1,
+    "lgil": 8
+  },
+  "E07000053": {
+    "name": "Weymouth and Portland Borough Council",
+    "url": "http://www.dorsetforyou.com",
+    "snac": "19UJ",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Weymouth and Portland"
+  },
+  "E08000010": {
+    "name": "Wigan Metropolitan Borough Council",
+    "url": "https://www.wigan.gov.uk",
+    "snac": "00BW",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Wigan"
+  },
+  "E06000054": {
+    "name": "Wiltshire Council",
+    "url": "http://www.wiltshire.gov.uk",
+    "snac": "00HY",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Wiltshire"
+  },
+  "E07000094": {
+    "name": "Winchester City Council",
+    "url": "http://www.winchester.gov.uk",
+    "snac": "24UP",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Winchester"
+  },
+  "E08000015": {
+    "name": "Wirral Council",
+    "url": "http://www.wirral.gov.uk",
+    "snac": "00CB",
+    "lgsl": 1,
+    "lgil": 0,
+    "idealPostcodesName": "Wirral"
+  },
+  "E07000217": {
+    "name": "Woking Borough Council",
+    "url": "https://www.woking.gov.uk",
+    "snac": "43UM",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Woking"
+  },
+  "E06000041": {
+    "name": "Wokingham Borough Council",
+    "url": "http://www.wokingham.gov.uk",
+    "snac": "00MF",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Wokingham"
+  },
+  "E07000237": {
+    "name": "Worcester City Council",
+    "url": "http://www.worcester.gov.uk",
+    "snac": "47UE",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Worcester"
+  },
+  "E10000034": {
+    "name": "Worcestershire County Council",
+    "url": "http://www.worcestershire.gov.uk",
+    "snac": "47",
+    "lgsl": 1,
+    "lgil": 0
+  },
+  "E07000229": {
+    "name": "Worthing Borough Council",
+    "url": "http://www.adur-worthing.gov.uk",
+    "snac": "45UH",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Worthing"
+  },
+  "W06000006": {
+    "name": "Wrexham County Borough Council",
+    "url": "http://www.wrexham.gov.uk",
+    "snac": "00NL",
+    "lgsl": 1,
+    "lgil": 8,
+    "idealPostcodesName": "Wrexham"
+  },
+  "E07000238": {
+    "name": "Wychavon District Council",
+    "url": "http://www.wychavon.gov.uk",
+    "snac": "47UF",
+    "lgsl": 18,
+    "lgil": 8,
+    "idealPostcodesName": "Wychavon"
+  },
+  "E07000007": {
+    "name": "Wycombe District Council",
+    "url": "https://www.wycombe.gov.uk",
+    "snac": "11UF",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Wycombe"
+  },
+  "E07000128": {
+    "name": "Wyre Council",
+    "url": "http://www.wyre.gov.uk",
+    "snac": "30UQ",
+    "lgsl": 57,
+    "lgil": 8,
+    "idealPostcodesName": "Wyre"
+  },
+  "E07000239": {
+    "name": "Wyre Forest District Council",
+    "url": "http://www.wyreforestdc.gov.uk",
+    "snac": "47UG",
+    "lgsl": 57,
+    "lgil": 2,
+    "idealPostcodesName": "Wyre Forest"
+  }
+}

@@ -1,0 +1,35 @@
+<p id="notice"><%= notice %></p>
+
+<h1>Councils</h1>
+
+<table>
+  <thead>
+    <tr>
+      <th>Gss</th>
+      <th>Name</th>
+      <th>Url</th>
+      <th>Snac</th>
+      <th>Ideal postcodes name</th>
+      <th colspan="3"></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @councils.each do |council| %>
+      <tr>
+        <td><%= council.gss %></td>
+        <td><%= council.name %></td>
+        <td><%= council.url %></td>
+        <td><%= council.snac %></td>
+        <td><%= council.ideal_postcodes_name %></td>
+        <td><%= link_to 'Show', council %></td>
+        <td><%= link_to 'Edit', edit_council_path(council) %></td>
+        <td><%= link_to 'Destroy', council, method: :delete, data: { confirm: 'Are you sure?' } %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+
+<%= link_to 'New Council', new_council_path %>

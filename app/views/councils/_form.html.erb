@@ -1,0 +1,42 @@
+<%= form_with(model: council, local: true) do |form| %>
+  <% if council.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(council.errors.count, "error") %> prohibited this council from being saved:</h2>
+
+      <ul>
+      <% council.errors.full_messages.each do |message| %>
+        <li><%= message %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= form.label :gss %>
+    <%= form.text_field :gss %>
+  </div>
+
+  <div class="field">
+    <%= form.label :name %>
+    <%= form.text_field :name %>
+  </div>
+
+  <div class="field">
+    <%= form.label :url %>
+    <%= form.text_field :url %>
+  </div>
+
+  <div class="field">
+    <%= form.label :snac %>
+    <%= form.text_field :snac %>
+  </div>
+
+  <div class="field">
+    <%= form.label :ideal_postcodes_name %>
+    <%= form.text_field :ideal_postcodes_name %>
+  </div>
+
+  <div class="actions">
+    <%= form.submit %>
+  </div>
+<% end %>
